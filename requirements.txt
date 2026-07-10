@@ -3,3 +3,12 @@ ultralytics
 easyocr
 opencv-python-headless
 lap>=0.5.12
+streamlit
+ultralytics
+opencv-python-headless
+easyocr
+torch
+torchvision
+numpy
+pillow
+pandas
